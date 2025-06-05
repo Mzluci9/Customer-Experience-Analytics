@@ -192,3 +192,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+df.to_csv('bank_reviews.csv', index=False, encoding='utf-8-sig')
